@@ -1,8 +1,0 @@
-<linker>
-	<assembly fullname="Assembly-CSharp-firstpass">
-		<type fullname="UnityStandardAssets.Characters.FirstPerson.MouseLook" preserve="nothing" serialized="true"/>
-		<type fullname="UnityStandardAssets.Utility.CurveControlledBob" preserve="nothing" serialized="true"/>
-		<type fullname="UnityStandardAssets.Utility.FOVKick" preserve="nothing" serialized="true"/>
-		<type fullname="UnityStandardAssets.Utility.LerpControlledBob" preserve="nothing" serialized="true"/>
-	</assembly>
-</linker>
